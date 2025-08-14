@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#1E8C2A</color>
+    <color name="colorPrimaryLight">#4CAF50</color>
+    <color name="colorPrimaryDark">#0B5D14</color>
+    <color name="colorAccent">#8BC34A</color>
+    <color name="welcomeBackground">#00893a</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorBackgroundSecondary">#F5F5F5</color>
+    <color name="colorBackgroundDark">#212121</color>
+    <color name="colorText">#212121</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#8E8E93</color>
+    <color name="colorProjectTitle">#333333</color>
+    <color name="colorDivider">#E0E0E0</color>
+    <color name="colorError">#FF3B30</color>
+    <color name="colorSuccess">#34C759</color>
+    <color name="colorWarning">#FFC107</color>
+    <color name="colorDisabled">#BDBDBD</color>
+    <color name="colorShadow">#10000000</color>
+    <color name="colorRipple">#20000000</color>
+    <color name="colorStatusBarDark">#121212</color>
+</resources>

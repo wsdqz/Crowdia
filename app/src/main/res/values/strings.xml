@@ -1,0 +1,271 @@
+<resources>
+    <string name="app_name">Crowdia</string>
+    <string name="login">Вход</string>
+    <string name="signup">Регистрация</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="name">Имя</string>
+    <string name="login_button">Войти</string>
+    <string name="signup_button">Зарегистрироваться</string>
+    <string name="no_account">Нет аккаунта? Зарегистрироваться</string>
+    <string name="have_account">Уже есть аккаунт? Войти</string>
+    <string name="home">Главная</string>
+    <string name="search">Поиск</string>
+    <string name="create">Создать</string>
+    <string name="notifications">Уведомления</string>
+    <string name="profile">Профиль</string>
+    <string name="settings">Настройки</string>
+    <string name="logout">Выйти</string>
+    <string name="theme">Тема</string>
+    <string name="language">Язык</string>
+    <string name="app_language">Язык приложения</string>
+    <string name="theme_system">Системная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Темная</string>
+    <string name="language_russian">Русский</string>
+    <string name="language_kazakh">Қазақша</string>
+    <string name="cancel">Отмена</string>
+    <string name="choose_language">Выберите язык</string>
+    <string name="choose_theme">Выберите тему</string>
+    <string name="language_changed">Қолданбаны қайта іске қосыңыз</string>
+    <string name="theme_changed">Тема изменена</string>
+    <string name="appearance">Внешний вид</string>
+    <string name="project_author_label">Автор проекта</string>
+    
+    <string name="top_projects">Топовые проекты</string>
+    <string name="ending_projects">Истекающие проекты</string>
+    <string name="recent_projects">Недавние проекты</string>
+    <string name="show_all">Показать все</string>
+    
+    <string name="project_title">Название проекта</string>
+    <string name="collected">Собрано: %1$s</string>
+    <string name="deadline">Дедлайн: %1$s</string>
+    <string name="goal_reached">Цель достигнута</string>
+    
+    <string name="project_details">Детали проекта</string>
+    <string name="description">Описание</string>
+    <string name="questions_answers">Вопросы и ответы</string>
+    <string name="ask_question_hint">Задайте вопрос...</string>
+    <string name="no_questions">Пока нет вопросов. Будьте первым!</string>
+    <string name="support_project">Поддержать проект</string>
+    <string name="support_project_again">Поддержать проект еще</string>
+    <string name="announcements">Объявления</string>
+    <string name="your_balance">Ваш баланс: %1$s</string>
+    <string name="enter_amount">Введите сумму</string>
+    <string name="amount_must_be_positive">Сумма должна быть больше нуля</string>
+    <string name="insufficient_funds">На вашем счету недостаточно средств</string>
+    <string name="enter_valid_amount">Введите корректную сумму</string>
+    <string name="enter_question_text">Введите текст вопроса</string>
+    <string name="of_amount">из %1$s</string>
+    <string name="deadline_format">Дедлайн: %1$s</string>
+    <string name="project_fully_funded_title">Проект уже собрал нужную сумму</string>
+    <string name="project_fully_funded_message">Этот проект уже достиг своей финансовой цели. Вы все равно хотите поддержать его?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="project_loading_error">Ошибка загрузки проекта</string>
+    <string name="project_not_found">Проект не найден</string>
+    <string name="comments_loading_error">Ошибка загрузки комментариев: %1$s</string>
+    <string name="comment_error">Ошибка при добавлении комментария</string>
+    <string name="progress_journal_later">Журнал прогресса будет доступен позже</string>
+    <string name="support_hint">Даже небольшая сумма поможет проекту!</string>
+    <string name="support_button">Поддержать</string>
+    <string name="support_success">Вы успешно поддержали проект на %1$s</string>
+    
+    <string name="announcements_title">Объявления</string>
+    <string name="no_announcements">Пока нет объявлений от автора проекта</string>
+    <string name="create_announcement">Создать объявление</string>
+    <string name="announcement_hint">Расскажите о прогрессе вашего проекта...</string>
+    <string name="add_photo">Добавить фото</string>
+    <string name="remove_photo">Удалить фото</string>
+    <string name="post_announcement">Опубликовать</string>
+    <string name="posting">Публикация...</string>
+    <string name="announcement_error">Ошибка при публикации объявления</string>
+    <string name="announcement_success">Объявление успешно опубликовано</string>
+    <string name="enter_announcement_text">Введите текст объявления</string>
+    <string name="announcements_loading_error">Ошибка загрузки объявлений</string>
+    
+    <string name="reply_title">Ответ на вопрос</string>
+    <string name="reply_hint">Введите текст ответа</string>
+    <string name="reply_sent">Ответ отправлен</string>
+    <string name="reply_error">Ошибка при отправке ответа</string>
+    <string name="enter_reply_text">Введите текст ответа</string>
+    <string name="send">Отправить</string>
+    
+    <string name="cannot_like_own">Вы не можете лайкать свои комментарии</string>
+    <string name="like_error">Ошибка при обновлении лайка</string>
+    
+    <string name="search_by_title">Поиск по названию</string>
+    <string name="sort_by">Сортировка:</string>
+    <string name="sort_newest">Новые</string>
+    <string name="sort_popular">Популярные</string>
+    <string name="sort_ending">Истекающие</string>
+    <string name="all_categories">Все</string>
+    
+    <string name="project_title_hint">Название проекта</string>
+    <string name="project_description_hint">Описание проекта</string>
+    <string name="project_goal_amount_hint">Целевая сумма</string>
+    <string name="project_category_hint">Выберите категорию</string>
+    <string name="project_deadline_hint">Дедлайн</string>
+    <string name="project_images_title">Изображения проекта</string>
+    <string name="project_images_info">Добавьте до 8 изображений. Первое изображение будет использовано как обложка проекта.</string>
+    <string name="project_warning">Внимание! После создания проект нельзя будет редактировать.</string>
+    <string name="save_button">Сохранить</string>
+    <string name="saving_button">Сохранение...</string>
+    <string name="fill_all_fields">Заполните все поля</string>
+    <string name="add_at_least_one_image">Добавьте хотя бы одно изображение для проекта</string>
+    <string name="invalid_images">Некоторые изображения некорректны. Пожалуйста, удалите их и добавьте снова.</string>
+    <string name="warning_title">Внимание</string>
+    <string name="warning_message">После создания проект нельзя будет редактировать. Вы уверены, что хотите продолжить?</string>
+    <string name="saving_project">Сохранение проекта...</string>
+    <string name="project_created">Проект успешно создан</string>
+    <string name="project_created_not_added">Проект создан, но не добавлен в профиль</string>
+    <string name="project_created_navigation_error">Проект создан, но произошла ошибка при переходе на страницу проектов</string>
+    <string name="error_creating_project">Ошибка при создании проекта: %1$s</string>
+    <string name="error_saving">Ошибка при сохранении: %1$s</string>
+    <string name="enter_valid_amount_hint">Введите корректную сумму</string>
+    <string name="choose_category_title">Выберите категорию</string>
+    <string name="choose_image">Выберите изображение</string>
+    <string name="take_photo">Сделать фото</string>
+    <string name="choose_from_gallery">Выбрать из галереи</string>
+    <string name="max_images_reached">Достигнут максимум изображений (%1$d)</string>
+    <string name="delete_image">Удалить изображение</string>
+    <string name="delete_image_confirm">Вы уверены, что хотите удалить это изображение?</string>
+    <string name="camera_error">Не удалось получить изображение с камеры</string>
+    <string name="gallery_error">Не удалось получить изображение из галереи</string>
+    <string name="decode_error">Не удалось декодировать изображение из галереи</string>
+    <string name="encode_error">Не удалось закодировать изображение</string>
+    <string name="image_loading_error">Ошибка загрузки изображения</string>
+    
+    <string name="no_notifications">У вас пока нет уведомлений</string>
+    <string name="notifications_description">Здесь будут отображаться уведомления о пожертвованиях, комментариях и других событиях</string>
+    
+    <string name="add_funds">Пополнить</string>
+    <string name="my_projects">Мои проекты</string>
+    <string name="donation_history">История пожертвований</string>
+    <string name="account">Учетная запись</string>
+    <string name="admin_panel">Админ-панель</string>
+    <string name="manage_users">Управление пользователями</string>
+    <string name="manage_projects">Управление проектами</string>
+    <string name="balance">Баланс</string>
+    
+    <string name="my_projects_title">Мои проекты</string>
+    <string name="projects_count">Всего проектов: %1$d</string>
+    <string name="no_projects_yet">У вас пока нет проектов</string>
+    <string name="create_first_project">Создайте свой первый проект!</string>
+    <string name="create_project">Создать проект</string>
+    
+    <string name="donation_history_title">История пожертвований</string>
+    <string name="no_donations_yet">У вас пока нет пожертвований</string>
+    
+    <string name="account_basic_info">Основная информация</string>
+    <string name="username">Имя пользователя</string>
+    <string name="save_changes">Сохранить изменения</string>
+    <string name="security">Безопасность</string>
+    <string name="change_password">Изменить пароль</string>
+    <string name="activity_history">История активности</string>
+    <string name="view_logins_history">Просмотреть историю входов</string>
+    <string name="enter_username">Введите имя пользователя</string>
+    <string name="enter_email">Введите email</string>
+    <string name="profile_updated">Данные профиля обновлены</string>
+    <string name="password_confirmation">Подтверждение пароля</string>
+    <string name="password_confirmation_message">Для изменения email введите текущий пароль</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="invalid_password">Неверный пароль</string>
+    <string name="change_password_title">Изменение пароля</string>
+    <string name="fill_all_password_fields">Заполните все поля</string>
+    <string name="passwords_dont_match">Пароли не совпадают</string>
+    <string name="password_min_length">Пароль должен содержать не менее 6 символов</string>
+    <string name="password_changed">Пароль успешно изменен</string>
+    <string name="logins_history_title">История входов</string>
+    <string name="logins_history_empty">История входов пуста</string>
+    <string name="close">Закрыть</string>
+    <string name="access_denied">Доступ запрещен</string>
+    
+    <string name="project_progress_format">%1$.0f / %2$.0f ₸</string>
+    <string name="project_progress_percent">(%1$d%%)</string>
+    <string name="available_amount">Доступно: %1$.0f ₸</string>
+    
+    <string name="project_author">Автор: %1$s</string>
+    <string name="project_status">Статус: %1$s</string>
+    <string name="project_status_active">активен</string>
+    <string name="project_status_completed">завершен</string>
+    <string name="delete_project">Удалить</string>
+    <string name="unknown">неизвестен</string>
+    <string name="delete_project_title">Удаление проекта</string>
+    <string name="delete_project_message">Вы действительно хотите удалить проект \"%1$s\"? Это действие нельзя отменить.</string>
+    <string name="project_deleted">Проект успешно удален</string>
+    <string name="project_delete_error">Ошибка при удалении проекта</string>
+    
+    <string name="manage_users_title">Управление пользователями</string>
+    <string name="users_count">Всего пользователей: %1$d</string>
+    <string name="admin_users_description">Администратор может управлять балансами и правами пользователей</string>
+    <string name="no_users_found">Пользователей не найдено</string>
+    <string name="user_management">Управление пользователем</string>
+    <string name="change_balance">Изменить баланс</string>
+    <string name="revoke_admin">Отозвать права администратора</string>
+    <string name="make_admin">Сделать администратором</string>
+    <string name="change_user_balance">Изменить баланс пользователя</string>
+    <string name="save">Сохранить</string>
+    <string name="balance_negative_error">Баланс не может быть отрицательным</string>
+    <string name="enter_amount_error">Введите сумму</string>
+    <string name="user_balance_updated">Баланс пользователя %1$s обновлен</string>
+    <string name="user_now_admin">Пользователь %1$s теперь администратор</string>
+    <string name="user_admin_revoked">У пользователя %1$s отозваны права администратора</string>
+    <string name="error_prefix">Ошибка: %1$s</string>
+    
+    <string name="manage_projects_title">Управление проектами</string>
+    <string name="admin_projects_description">Администратор может удалять любые проекты</string>
+    <string name="no_projects_found">Проектов не найдено</string>
+    
+    <string name="withdraw_funds">Вывод средств</string>
+    <string name="available_funds">Доступно для вывода: %.0f ₸</string>
+    <string name="enter_withdraw_amount">Введите сумму для вывода</string>
+    <string name="withdraw_info">Средства будут выведены на ваш баланс.</string>
+    <string name="withdraw_button">Вывести</string>
+    <string name="amount_greater_than_zero">Сумма должна быть больше нуля</string>
+    <string name="insufficient_available_funds">Недостаточно доступных средств</string>
+    <string name="enter_withdraw_amount_error">Введите сумму для вывода</string>
+    <string name="funds_withdrawn_success">Средства успешно выведены на ваш баланс</string>
+    <string name="loading_projects_error">Ошибка при загрузке проектов</string>
+    <string name="error_updating_balance">Ошибка при обновлении баланса</string>
+    <string name="project_processing_error">Ошибка при обработке проекта</string>
+    <string name="critical_loading_error">Критическая ошибка при загрузке проектов</string>
+    <string name="invalid_credentials">Неверный логин или пароль</string>
+    
+    <string name="choose_profile_image">Выберите изображение профиля</string>
+    <string name="avatar_updated">Аватар успешно обновлен</string>
+    <string name="logout_message">Вы вышли из аккаунта</string>
+    
+    <string name="add_funds_title">Пополнение баланса</string>
+    <string name="enter_amount_for_add">Введите сумму для пополнения</string>
+    <string name="amount_in_tenge">Сумма в тенге</string>
+    <string name="add_funds_button">Пополнить</string>
+    <string name="funds_added_success">Баланс успешно пополнен на %1$d ₸</string>
+    
+    <string name="user_already_exists">Такой пользователь уже существует</string>
+    <string name="login_success">Вход</string>
+    <string name="invalid_email">Некорректный email</string>
+    
+    <string name="error_user_not_authorized">Ошибка: пользователь не авторизован</string>
+    <string name="error_processing_project">Ошибка при обработке проекта</string>
+    <string name="error_finding_main_activity">Ошибка поиска MainActivity</string>
+    
+    <string name="enter_email_hint">Введите email</string>
+    <string name="enter_password_hint">Введите пароль</string>
+    <string name="register_button">Регистрация</string>
+    <string name="login_button_text">Войти</string>
+    <string name="login_title">Вход</string>
+    
+    <string name="signup_title">Регистрация</string>
+    <string name="enter_login_hint">Введите логин</string>
+    <string name="back_to_login">Назад к входу</string>
+    
+    <plurals name="backers_count">
+        <item quantity="one">спонсор</item>
+        <item quantity="few">спонсора</item>
+        <item quantity="many">спонсоров</item>
+        <item quantity="other">спонсоров</item>
+    </plurals>
+</resources>

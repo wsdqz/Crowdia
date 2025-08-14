@@ -1,0 +1,111 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Crowdia" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorSecondaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/colorStatusBarDark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="android:navigationBarColor">@color/colorStatusBarDark</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="actionBarStyle">@style/AppActionBarDark</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/colorTextSecondary</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorSurface">@color/colorBackgroundDark</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+        <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Dark</item>
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.App.MaterialAlertDialog.Dark</item>
+        <item name="cardBackgroundColor">@color/colorBackgroundDark</item>
+    </style>
+    
+    <style name="ThemeOverlay.App.MaterialAlertDialog.Dark" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSurface">@color/colorBackgroundDark</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="materialAlertDialogTitleTextStyle">@style/AppTextStyle.Title.Dark</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/AppTextStyle.Dark</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyle.Dark</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStyle.Dark</item>
+    </style>
+    
+    <style name="PositiveButtonStyle.Dark" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+    
+    <style name="NegativeButtonStyle.Dark" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/colorTextSecondary</item>
+    </style>
+    
+    <style name="AppActionBarDark" parent="Widget.MaterialComponents.ActionBar.Surface">
+        <item name="background">@color/colorActionBarDark</item>
+        <item name="elevation">0dp</item>
+        <item name="titleTextStyle">@style/AppActionBarTitle.Dark</item>
+        <item name="contentInsetStartWithNavigation">32dp</item>
+    </style>
+    
+    <style name="AppActionBarTitle.Dark" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    
+    <style name="AppTextStyle.Dark" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    
+    <style name="AppTextStyle.Title.Dark" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="AppTextStyle" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    
+    <style name="AppTextStyle.Title" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="AppTextStyle.Subtitle" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    
+    <style name="AppTextStyle.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">@color/colorTextSecondary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    
+    <style name="AppCardStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">8dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/colorBackgroundDark</item>
+    </style>
+    
+    <style name="CompactBottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemIconTint">@color/bottom_nav_colors</item>
+        <item name="itemTextColor">@color/bottom_nav_colors</item>
+        <item name="android:background">@color/colorActionBarDark</item>
+        <item name="elevation">0dp</item>
+        <item name="labelVisibilityMode">unlabeled</item>
+    </style>
+    
+    <style name="AppEditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/edit_text_background</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/colorTextSecondary</item>
+    </style>
+</resources>

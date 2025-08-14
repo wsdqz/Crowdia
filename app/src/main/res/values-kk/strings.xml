@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crowdia</string>
+    <string name="login">Кіру</string>
+    <string name="signup">Тіркелу</string>
+    <string name="email">Email</string>
+    <string name="password">Құпия сөз</string>
+    <string name="confirm_password">Құпия сөзді растаңыз</string>
+    <string name="name">Аты</string>
+    <string name="login_button">Кіру</string>
+    <string name="signup_button">Тіркелу</string>
+    <string name="no_account">Тіркелгіңіз жоқ па? Тіркелу</string>
+    <string name="have_account">Тіркелгіңіз бар ма? Кіру</string>
+    <string name="home">Басты бет</string>
+    <string name="search">Іздеу</string>
+    <string name="create">Жасау</string>
+    <string name="notifications">Хабарландырулар</string>
+    <string name="profile">Профиль</string>
+    <string name="settings">Параметрлер</string>
+    <string name="logout">Шығу</string>
+    <string name="theme">Тақырып</string>
+    <string name="language">Тіл</string>
+    <string name="app_language">Қолданба тілі</string>
+    <string name="theme_system">Жүйелік</string>
+    <string name="theme_light">Жарық</string>
+    <string name="theme_dark">Қараңғы</string>
+    <string name="language_russian">Орысша</string>
+    <string name="language_kazakh">Қазақша</string>
+    <string name="cancel">Болдырмау</string>
+    <string name="choose_language">Тілді таңдаңыз</string>
+    <string name="choose_theme">Тақырыпты таңдаңыз</string>
+    <string name="language_changed">Перезапустите приложение</string>
+    <string name="theme_changed">Тақырып өзгертілді</string>
+    <string name="appearance">Сыртқы түрі</string>
+    <string name="project_author_label">Жоба авторы</string>
+    
+    <string name="top_projects">Үздік жобалар</string>
+    <string name="ending_projects">Аяқталатын жобалар</string>
+    <string name="recent_projects">Соңғы жобалар</string>
+    <string name="show_all">Барлығын көрсету</string>
+    
+    <string name="project_title">Жоба атауы</string>
+    <string name="collected">Жиналды: %1$s</string>
+    <string name="deadline">Мерзімі: %1$s</string>
+    <string name="goal_reached">Мақсатқа жетті</string>
+    
+    <string name="project_details">Жоба мәліметтері</string>
+    <string name="description">Сипаттама</string>
+    <string name="questions_answers">Сұрақтар мен жауаптар</string>
+    <string name="ask_question_hint">Сұрақ қойыңыз...</string>
+    <string name="no_questions">Әзірге сұрақтар жоқ. Бірінші болыңыз!</string>
+    <string name="support_project">Жобаны қолдау</string>
+    <string name="support_project_again">Жобаны тағы қолдау</string>
+    <string name="announcements">Хабарландырулар</string>
+    <string name="your_balance">Сіздің балансыңыз: %1$s</string>
+    <string name="enter_amount">Соманы енгізіңіз</string>
+    <string name="amount_must_be_positive">Сома нөлден үлкен болуы керек</string>
+    <string name="insufficient_funds">Шотыңызда жеткілікті қаражат жоқ</string>
+    <string name="enter_valid_amount">Дұрыс соманы енгізіңіз</string>
+    <string name="enter_question_text">Сұрақ мәтінін енгізіңіз</string>
+    <string name="of_amount">%1$s ішінен</string>
+    <string name="deadline_format">Мерзімі: %1$s</string>
+    <string name="project_fully_funded_title">Жоба қажетті соманы жинап қойды</string>
+    <string name="project_fully_funded_message">Бұл жоба өзінің қаржылық мақсатына жетті. Сіз оны әлі де қолдағыңыз келе ме?</string>
+    <string name="yes">Иә</string>
+    <string name="no">Жоқ</string>
+    <string name="project_loading_error">Жобаны жүктеу қатесі</string>
+    <string name="project_not_found">Жоба табылмады</string>
+    <string name="comments_loading_error">Пікірлерді жүктеу қатесі: %1$s</string>
+    <string name="comment_error">Пікір қосу кезінде қате</string>
+    <string name="progress_journal_later">Прогресс журналы кейінірек қол жетімді болады</string>
+    <string name="support_hint">Тіпті шағын сома да жобаға көмектеседі!</string>
+    <string name="support_button">Қолдау</string>
+    <string name="support_success">Сіз жобаны %1$s сомасына сәтті қолдадыңыз</string>
+    
+    <string name="announcements_title">Хабарландырулар</string>
+    <string name="no_announcements">Әзірге жоба авторынан хабарландырулар жоқ</string>
+    <string name="create_announcement">Хабарландыру жасау</string>
+    <string name="announcement_hint">Жобаңыздың барысы туралы айтып беріңіз...</string>
+    <string name="add_photo">Фото қосу</string>
+    <string name="remove_photo">Фотоны жою</string>
+    <string name="post_announcement">Жариялау</string>
+    <string name="posting">Жариялануда...</string>
+    <string name="announcement_error">Хабарландыруды жариялау кезінде қате</string>
+    <string name="announcement_success">Хабарландыру сәтті жарияланды</string>
+    <string name="enter_announcement_text">Хабарландыру мәтінін енгізіңіз</string>
+    <string name="announcements_loading_error">Хабарландыруларды жүктеу қатесі</string>
+    
+    <string name="reply_title">Сұраққа жауап</string>
+    <string name="reply_hint">Жауап мәтінін енгізіңіз</string>
+    <string name="reply_sent">Жауап жіберілді</string>
+    <string name="reply_error">Жауап жіберу кезінде қате</string>
+    <string name="enter_reply_text">Жауап мәтінін енгізіңіз</string>
+    <string name="send">Жіберу</string>
+    
+    <string name="cannot_like_own">Сіз өз пікірлеріңізге лайк қоя алмайсыз</string>
+    <string name="like_error">Лайкты жаңарту кезінде қате</string>
+    
+    <string name="search_by_title">Атауы бойынша іздеу</string>
+    <string name="sort_by">Сұрыптау:</string>
+    <string name="sort_newest">Жаңа</string>
+    <string name="sort_popular">Танымал</string>
+    <string name="sort_ending">Аяқталатын</string>
+    <string name="all_categories">Барлығы</string>
+    
+    <string name="project_title_hint">Жоба атауы</string>
+    <string name="project_description_hint">Жоба сипаттамасы</string>
+    <string name="project_goal_amount_hint">Мақсатты сома</string>
+    <string name="project_category_hint">Санатты таңдаңыз</string>
+    <string name="project_deadline_hint">Мерзімі</string>
+    <string name="project_images_title">Жоба суреттері</string>
+    <string name="project_images_info">8 суретке дейін қосыңыз. Бірінші сурет жоба мұқабасы ретінде пайдаланылады.</string>
+    <string name="project_warning">Назар аударыңыз! Жобаны құрғаннан кейін оны өңдеу мүмкін болмайды.</string>
+    <string name="save_button">Сақтау</string>
+    <string name="saving_button">Сақталуда...</string>
+    <string name="fill_all_fields">Барлық өрістерді толтырыңыз</string>
+    <string name="add_at_least_one_image">Жоба үшін кем дегенде бір суретті қосыңыз</string>
+    <string name="invalid_images">Кейбір суреттер дұрыс емес. Оларды жойып, қайтадан қосыңыз.</string>
+    <string name="warning_title">Назар аударыңыз</string>
+    <string name="warning_message">Жобаны құрғаннан кейін оны өңдеу мүмкін болмайды. Жалғастырғыңыз келе ме?</string>
+    <string name="saving_project">Жоба сақталуда...</string>
+    <string name="project_created">Жоба сәтті құрылды</string>
+    <string name="project_created_not_added">Жоба құрылды, бірақ профильге қосылмады</string>
+    <string name="project_created_navigation_error">Жоба құрылды, бірақ жобалар бетіне өту кезінде қате орын алды</string>
+    <string name="error_creating_project">Жобаны құру кезінде қате: %1$s</string>
+    <string name="error_saving">Сақтау кезінде қате: %1$s</string>
+    <string name="enter_valid_amount_hint">Дұрыс соманы енгізіңіз</string>
+    <string name="choose_category_title">Санатты таңдаңыз</string>
+    <string name="choose_image">Суретті таңдаңыз</string>
+    <string name="take_photo">Фото түсіру</string>
+    <string name="choose_from_gallery">Галереядан таңдау</string>
+    <string name="max_images_reached">Суреттердің максимум санына жетті (%1$d)</string>
+    <string name="delete_image">Суретті жою</string>
+    <string name="delete_image_confirm">Бұл суретті жойғыңыз келе ме?</string>
+    <string name="camera_error">Камерадан суретті алу мүмкін болмады</string>
+    <string name="gallery_error">Галереядан суретті алу мүмкін болмады</string>
+    <string name="decode_error">Галереядан суретті декодтау мүмкін болмады</string>
+    <string name="encode_error">Суретті кодтау мүмкін болмады</string>
+    <string name="image_loading_error">Суретті жүктеу кезінде қате</string>
+    
+    <string name="no_notifications">Сізде әзірге хабарландырулар жоқ</string>
+    <string name="notifications_description">Мұнда қайырымдылықтар, пікірлер және басқа оқиғалар туралы хабарландырулар көрсетіледі</string>
+    
+    <string name="add_funds">Толтыру</string>
+    <string name="my_projects">Менің жобаларым</string>
+    <string name="donation_history">Қайырымдылық тарихы</string>
+    <string name="account">Тіркелгі</string>
+    <string name="admin_panel">Әкімші панелі</string>
+    <string name="manage_users">Пайдаланушыларды басқару</string>
+    <string name="manage_projects">Жобаларды басқару</string>
+    <string name="balance">Баланс</string>
+    
+    <string name="my_projects_title">Менің жобаларым</string>
+    <string name="projects_count">Барлық жобалар: %1$d</string>
+    <string name="no_projects_yet">Сізде әзірге жобалар жоқ</string>
+    <string name="create_first_project">Өзіңіздің алғашқы жобаңызды жасаңыз!</string>
+    <string name="create_project">Жоба жасау</string>
+    
+    <string name="donation_history_title">Қайырымдылық тарихы</string>
+    <string name="no_donations_yet">Сізде әзірге қайырымдылықтар жоқ</string>
+    
+    <string name="account_basic_info">Негізгі ақпарат</string>
+    <string name="username">Пайдаланушы аты</string>
+    <string name="save_changes">Өзгерістерді сақтау</string>
+    <string name="security">Қауіпсіздік</string>
+    <string name="change_password">Құпия сөзді өзгерту</string>
+    <string name="activity_history">Белсенділік тарихы</string>
+    <string name="view_logins_history">Кіру тарихын қарау</string>
+    <string name="enter_username">Пайдаланушы атын енгізіңіз</string>
+    <string name="enter_email">Email енгізіңіз</string>
+    <string name="profile_updated">Профиль деректері жаңартылды</string>
+    <string name="password_confirmation">Құпия сөзді растау</string>
+    <string name="password_confirmation_message">Email өзгерту үшін ағымдағы құпия сөзді енгізіңіз</string>
+    <string name="confirm">Растау</string>
+    <string name="enter_password">Құпия сөзді енгізіңіз</string>
+    <string name="invalid_password">Қате құпия сөз</string>
+    <string name="change_password_title">Құпия сөзді өзгерту</string>
+    <string name="fill_all_password_fields">Барлық өрістерді толтырыңыз</string>
+    <string name="passwords_dont_match">Құпия сөздер сәйкес келмейді</string>
+    <string name="password_min_length">Құпия сөз кемінде 6 таңбадан тұруы керек</string>
+    <string name="password_changed">Құпия сөз сәтті өзгертілді</string>
+    <string name="logins_history_title">Кіру тарихы</string>
+    <string name="logins_history_empty">Кіру тарихы бос</string>
+    <string name="close">Жабу</string>
+    <string name="access_denied">Қол жеткізу тыйым салынған</string>
+    
+    <string name="manage_users_title">Пайдаланушыларды басқару</string>
+    <string name="users_count">Барлық пайдаланушылар: %1$d</string>
+    <string name="admin_users_description">Әкімші пайдаланушылардың баланстары мен құқықтарын басқара алады</string>
+    <string name="no_users_found">Пайдаланушылар табылмады</string>
+    <string name="user_management">Пайдаланушыны басқару</string>
+    <string name="change_balance">Балансты өзгерту</string>
+    <string name="revoke_admin">Әкімші құқықтарын қайтарып алу</string>
+    <string name="make_admin">Әкімші ету</string>
+    <string name="change_user_balance">Пайдаланушы балансын өзгерту</string>
+    <string name="save">Сақтау</string>
+    <string name="balance_negative_error">Баланс теріс болуы мүмкін емес</string>
+    <string name="enter_amount_error">Соманы енгізіңіз</string>
+    <string name="user_balance_updated">%1$s пайдаланушысының балансы жаңартылды</string>
+    <string name="user_now_admin">%1$s пайдаланушысы енді әкімші</string>
+    <string name="user_admin_revoked">%1$s пайдаланушысының әкімші құқықтары қайтарып алынды</string>
+    <string name="error_prefix">Қате: %1$s</string>
+    
+    <string name="manage_projects_title">Жобаларды басқару</string>
+    <string name="admin_projects_description">Әкімші кез келген жобаларды жоя алады</string>
+    <string name="no_projects_found">Жобалар табылмады</string>
+    
+    <string name="withdraw_funds">Қаражатты шығару</string>
+    <string name="available_funds">Шығаруға қолжетімді: %1$.0f ₸</string>
+    <string name="enter_withdraw_amount">Шығару сомасын енгізіңіз</string>
+    <string name="withdraw_info">Қаражат сіздің балансыңызға аударылады.</string>
+    <string name="withdraw_button">Шығару</string>
+    <string name="amount_greater_than_zero">Сома нөлден үлкен болуы керек</string>
+    <string name="insufficient_available_funds">Қолжетімді қаражат жеткіліксіз</string>
+    <string name="enter_withdraw_amount_error">Шығару сомасын енгізіңіз</string>
+    <string name="funds_withdrawn_success">Қаражат сіздің балансыңызға сәтті аударылды</string>
+    <string name="loading_projects_error">Жобаларды жүктеу кезінде қате</string>
+    <string name="project_processing_error">Жобаны өңдеу кезінде қате</string>
+    <string name="critical_loading_error">Жобаларды жүктеу кезінде маңызды қате</string>
+    <string name="invalid_credentials">Қате логин немесе құпия сөз</string>
+    
+    <string name="choose_profile_image">Профиль суретін таңдаңыз</string>
+    <string name="avatar_updated">Аватар сәтті жаңартылды</string>
+    <string name="logout_message">Сіз аккаунттан шықтыңыз</string>
+    
+    <string name="project_progress_format">%1$.0f / %2$.0f ₸</string>
+    <string name="project_progress_percent">(%1$d%%)</string>
+    <string name="available_amount">Қолжетімді: %1$.0f ₸</string>
+    
+    <string name="project_author">Авторы: %1$s</string>
+    <string name="project_status">Күйі: %1$s</string>
+    <string name="project_status_active">белсенді</string>
+    <string name="project_status_completed">аяқталған</string>
+    <string name="delete_project">Жою</string>
+    <string name="unknown">белгісіз</string>
+    <string name="delete_project_title">Жобаны жою</string>
+    <string name="delete_project_message">Сіз \"%1$s\" жобасын жойғыңыз келе ме? Бұл әрекетті болдырмау мүмкін емес.</string>
+    <string name="project_deleted">Жоба сәтті жойылды</string>
+    <string name="project_delete_error">Жобаны жою кезінде қате</string>
+    
+    <plurals name="backers_count">
+        <item quantity="one">демеуші</item>
+        <item quantity="other">демеуші</item>
+    </plurals>
+    
+    <string name="add_funds_title">Балансты толтыру</string>
+    <string name="enter_amount_for_add">Толтыру сомасын енгізіңіз</string>
+    <string name="amount_in_tenge">Теңгедегі сома</string>
+    <string name="add_funds_button">Толтыру</string>
+    <string name="funds_added_success">Баланс %1$d ₸ сомасына сәтті толтырылды</string>
+    
+    <string name="user_already_exists">Мұндай пайдаланушы бұрыннан бар</string>
+    <string name="login_success">Кіру</string>
+    <string name="invalid_email">Қате email</string>
+    
+    <string name="error_user_not_authorized">Қате: пайдаланушы авторизацияланбаған</string>
+    <string name="error_processing_project">Жобаны өңдеу кезінде қате</string>
+    <string name="error_finding_main_activity">MainActivity іздеу кезінде қате</string>
+    
+    <string name="enter_email_hint">Email енгізіңіз</string>
+    <string name="enter_password_hint">Құпия сөзді енгізіңіз</string>
+    <string name="register_button">Тіркелу</string>
+    <string name="login_button_text">Кіру</string>
+    <string name="login_title">Кіру</string>
+    
+    <string name="signup_title">Тіркелу</string>
+    <string name="enter_login_hint">Логинді енгізіңіз</string>
+    <string name="back_to_login">Кіруге оралу</string>
+</resources> 
